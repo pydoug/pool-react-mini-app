@@ -2,6 +2,8 @@
 
 A simple project using **React**, **Vite**, and **TailwindCSS**.
 
+![Project Preview](https://img001.prntscr.com/file/img001/106nb3B3SZCDQ4Hu-_-gfw.png)
+
 ## How to Run the Project
 
 1. Clone the repository:
