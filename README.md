@@ -5,7 +5,7 @@ A simple project using **React**, **Vite**, and **TailwindCSS**.
 ## How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/pydoug/pool-react-mini-app.git
    
 2. Navigate to the project directory:
 cd project-name
